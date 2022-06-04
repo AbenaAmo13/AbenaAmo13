@@ -14,7 +14,7 @@ I'm an aspiring software engineer/ full-stack web developer who is passionate ab
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrghostlyorb&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abenaamo13&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abenaamo13&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 
