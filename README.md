@@ -7,8 +7,8 @@ I'm an aspiring software engineer/ full-stack web developer who is passionate ab
 - Sharing updates on <a href="https://www.linkedin.com/in/abenaamo/">LinkedIn</a> 💼
 
 ## What I am up to:
-- Currently learning flutter 🦋
-- Interning for BT (British Telecommunications) 📞
+- Coding Challenges 🦋
+
 
 
   <summary><b>⚡ Github Stats</b></summary>
