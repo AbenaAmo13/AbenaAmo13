@@ -1,4 +1,5 @@
 # Hi, I'm Abena 👋🏾 👩🏾‍💻
+[![LeetCode user abenaserwaaamo](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%abenaserwaaamo&logo=leetcode&logoColor=yellow)](https://leetcode.com/abenaserwaaamo/)
 
 <img src="https://github.com/AbenaAmo13/AbenaAmo13/blob/main/Abena.png?raw=true" alt="banner that says Abena Amo - software engineer, fullstack web developer, and AI Queen">
 I'm an aspiring software engineer/ full-stack web developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Java, Python etc. 
